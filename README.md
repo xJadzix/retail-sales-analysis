@@ -23,8 +23,7 @@ queries/
 ├── 02_aggregations.sql - revenue by country, top products, HAVING
 ├── 03_window_functions.sql - ROW_NUMBER, RANK, LAG, monthly trends
 └── 04_rfm.sql - RFM customer segmentation with NTILE
-data/
-└── README.md - dataset source and description
+README.md - dataset source and description
 ```
 ## Key Findings
 
